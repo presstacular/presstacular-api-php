@@ -1,4 +1,4 @@
-# mailermailer-api-php
+# presstacular-api-php
 
 A PHP wrapper using the [PHPXMLRPC](http://phpxmlrpc.sourceforge.net/) library to connect to the MailerMailer API
 
@@ -8,7 +8,7 @@ PHP 5
 
 ## Installation
 
-Just place mailermailer-api-php in a directory accessible by your application
+Just place presstacular-api-php in a directory accessible by your application
 
 ## Usage
 
