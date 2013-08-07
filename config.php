@@ -3,10 +3,10 @@
 // DO NOT ALTER THESE VALUES AS THEY ARE
 // ESSENTIAL TO THE FUNCTIONALITY OF THIS API WRAPPER
 
-define('MAILAPI_ENDPOINT', 'https://api.mailermailer.com/1.0/');
+define('MAILAPI_ENDPOINT', 'https://api.presstacular.com/1.0/');
 
 define('MAILAPI_VERSION', '1.0.3');
 
-define ('MAILAPI_PARTNER', 'MM');
+define ('MAILAPI_PARTNER', 'PT');
 
 ?>

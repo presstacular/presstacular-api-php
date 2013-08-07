@@ -1,6 +1,6 @@
 # presstacular-api-php
 
-A PHP wrapper using the [PHPXMLRPC](http://phpxmlrpc.sourceforge.net/) library to connect to the MailerMailer API
+A PHP wrapper using the [PHPXMLRPC](http://phpxmlrpc.sourceforge.net/) library to connect to the Presstacular API
 
 ##Requirements
 
@@ -38,7 +38,7 @@ Checking the success or failure of any call can be easily done by invoking `MAIL
 If the call encountered an error then the response will be of type Error and `isError` will return true, otherwise the call succeeded.
 Every error will have an associated error code and message which can be retrieved through the Error class getter methods as seen in the example above.
 
-For the official documentation of the Mailermailer XML-RPC API please visit [here](http://www.mailermailer.com/api/index.rwp).
+For the official documentation of the Presstacular XML-RPC API please visit [here](http://www.presstacular.com/api/index.rwp).
 
 ## Examples
 

@@ -1,11 +1,11 @@
 <?php
 
 /**
- * MailerMailer API XMLRPC Wrapper
+ * Presstacular API XMLRPC Wrapper
  *
- * @package   mailermailer-api-php
- * @author    MailerMailer <support@mailermailer.com>
- * @copyright 2001-2013 MailerMailer LLC
+ * @package   presstacular-api-php
+ * @author    Presstacular <support@presstacular.com>
+ * @copyright 2001-2013 Presstacular LLC
  * @license   This program is free software; you can redistribute it and/or modify
  *            it under the terms of the GNU General Public License as published by
  
@@ -22,7 +22,7 @@
  *            Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston,
  *            MA 02110-1301, USA.
  * @version   1.0.3
- * @link      http://www.mailermailer.com/api/index.rwp
+ * @link      http://www.presstacular.com/api/index.rwp
  */
 
 ?>
