@@ -4,7 +4,7 @@
  * Presstacular API XMLRPC Wrapper
  *
  * @package   presstacular-api-php
- * @author    Presstacular <support@presstacular.com>
+ * @author    Presstacular <support+pt@mailermailer.com>
  * @copyright 2001-2013 Presstacular LLC
  * @license   This program is free software; you can redistribute it and/or modify
  *            it under the terms of the GNU General Public License as published by
