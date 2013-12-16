@@ -15,8 +15,8 @@ if (getenv('MAILAPI_TEST_EMAIL') == null) {
 // Create our API object
 $mailapi = new MAILAPI_Client(getenv('MAILAPI_KEY'));
 
-// Unsubscribe list member
-$response = $mailapi->unsubMember(getenv('MAILAPI_TEST_EMAIL'));
+// Unsuppress list member
+$response = $mailapi->unsuppressMember(getenv('MAILAPI_TEST_EMAIL'));
 
 // Evaluate response
 if (MAILAPI_Error::isError($response)) {

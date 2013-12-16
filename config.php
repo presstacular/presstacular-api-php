@@ -5,7 +5,7 @@
 
 define('MAILAPI_ENDPOINT', 'https://api.presstacular.com/1.0/');
 
-define('MAILAPI_VERSION', '1.0.4');
+define('MAILAPI_VERSION', '1.0.5');
 
 define ('MAILAPI_PARTNER', 'PT');
 
